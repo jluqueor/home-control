@@ -71,4 +71,4 @@ Actualizar la seguridad con:
 sudo nano /etc/openhab/configurations/openhab.cfg
 ```
 
-Poner seguridad a ```ON```.
+Poner seguridad a **ON**.
