@@ -49,7 +49,11 @@ Para instalar uno:
 sudo apt-get install [nombre del addon que se quiere instalar]
 ```
 
-Por ejemplo, el addon de KNX: openhab-addob-binding-knx
+Por ejemplo, el addon de KNX: 
+
+```console
+sudo apt-get install openhab-addob-binding-knx
+```
 
 ## Incluir usuarios
 
