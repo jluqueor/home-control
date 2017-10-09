@@ -32,7 +32,7 @@ sudo update-rc.d openhab defaults
 Para arrancar openhab:
 
 ```console
-sudo /etc/init-d/openhab start
+sudo /etc/init.d/openhab start
 ```
 
 ## Añadir addons.
