@@ -11,7 +11,7 @@ sudo tee /etc/apt/source.list.d/openhab.list"
 
 sudo apt-get update
 ```
-Si da error por "llave púlica no disponible", hacer:
+Si da error por "llave pública no disponible", hacer:
 
 ```console
 gpg --keyserver keyserver.ubuntu.com --recv [NO_PUBKEY indicado en el error al actualizar]
